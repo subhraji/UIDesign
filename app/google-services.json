@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976564847185",
+    "firebase_url": "https://uidesign-718c7.firebaseio.com",
+    "project_id": "uidesign-718c7",
+    "storage_bucket": "uidesign-718c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976564847185:android:f9ec2fd57dd25495616e70",
+        "android_client_info": {
+          "package_name": "e.subhrajit.uidesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976564847185-e985fpud829lo7uonolvo5ffdhers5ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.subhrajit.uidesign",
+            "certificate_hash": "cf6041ad4593b7ab056540a713537bd3f9742a90"
+          }
+        },
+        {
+          "client_id": "976564847185-7j25c2eotg5ka4acv0eanp6mvq67lrb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8AmZdnjMgKEXm5uE_z2O77DfaSwRIhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976564847185-7j25c2eotg5ka4acv0eanp6mvq67lrb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
